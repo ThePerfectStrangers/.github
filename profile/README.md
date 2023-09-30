@@ -1,4 +1,4 @@
-![The Perfect Strangers Logo](./assets/Logo.png)
+![The Perfect Strangers Logo](./profile/assets/Logo.png)
 
 # Welcome
 
