@@ -10,7 +10,7 @@ Welcome to the Perfect Stranger's on GitHub. We use this space to store and docu
 
 # Rider
 
-The [Rider](https://github.com/ThePerfectStrangers/TechnicalDocumentation/Rider.md) for the band can be found in our Technical Documentation repository. You can also access it directly by [clicking here](https://github.com/ThePerfectStrangers/TechnicalDocumentation/Rider.md).
+The [Rider](https://github.com/ThePerfectStrangers/TechnicalDocumentation/blob/main/Rider.md) for the band can be found in our Technical Documentation repository. You can also access it directly by [clicking here](https://github.com/ThePerfectStrangers/TechnicalDocumentation/blob/main/Rider.md).
 
 # Contact Us
 
